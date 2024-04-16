@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const setShape = require('./library/setShape.js')
+const setShapea = require('./library/pickshape.js')
 const fileName = "logo.svg"
 
 
